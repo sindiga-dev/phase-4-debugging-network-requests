@@ -152,6 +152,10 @@ const SubmitButton = styled.button`
   font-family: inherit;
   font-size: 1.2rem;
   border: none;
-  padding: 8px 16px;
+
   cursor: pointer;
 `;
+
+
+
+export default MovieForm;
